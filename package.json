@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umami-software/umami.git"
+    "url": "https://github.com/RuanhoR/fork-umami.git"
   },
   "type": "module",
   "scripts": {
@@ -168,6 +168,6 @@
     "ts-node": "^10.9.1",
     "tsup": "^8.5.0",
     "tsx": "^4.19.0",
-    "typescript": "5.9.3"
+    "typescript": "^5.9.3"
   }
 }
